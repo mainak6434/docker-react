@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hakuna Matata, Kya bole hum tum
+          Hakuna Matata, Change made on feature.
         </a>
       </header>
     </div>
